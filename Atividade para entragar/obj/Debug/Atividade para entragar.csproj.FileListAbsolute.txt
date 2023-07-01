@@ -1,0 +1,7 @@
+C:\Users\arthu\source\repos\Atividade para entragar\Atividade para entragar\bin\Debug\Atividade para entragar.exe.config
+C:\Users\arthu\source\repos\Atividade para entragar\Atividade para entragar\bin\Debug\Atividade para entragar.exe
+C:\Users\arthu\source\repos\Atividade para entragar\Atividade para entragar\bin\Debug\Atividade para entragar.pdb
+C:\Users\arthu\source\repos\Atividade para entragar\Atividade para entragar\obj\Debug\Atividade para entragar.csproj.AssemblyReference.cache
+C:\Users\arthu\source\repos\Atividade para entragar\Atividade para entragar\obj\Debug\Atividade para entragar.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\Atividade para entragar\Atividade para entragar\obj\Debug\Atividade para entragar.exe
+C:\Users\arthu\source\repos\Atividade para entragar\Atividade para entragar\obj\Debug\Atividade para entragar.pdb
